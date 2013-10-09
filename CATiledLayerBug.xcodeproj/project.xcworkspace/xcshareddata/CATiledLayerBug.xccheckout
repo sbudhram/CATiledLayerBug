@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F2D3424D-F1E4-4895-B7A6-2734217F04F0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CATiledLayerBug</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>071A0746-676C-4C2F-A091-5A4676DEBEF5</key>
+		<string>https://github.com/sbudhram/CATiledLayerBug.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CATiledLayerBug.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>071A0746-676C-4C2F-A091-5A4676DEBEF5</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sbudhram/CATiledLayerBug.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>071A0746-676C-4C2F-A091-5A4676DEBEF5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>071A0746-676C-4C2F-A091-5A4676DEBEF5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CATiledLayerBug</string>
+		</dict>
+	</array>
+</dict>
+</plist>
